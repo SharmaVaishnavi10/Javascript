@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#mybutton {
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    background-color: royalblue;
+    color: white;
+    border: none;
+    border-radius: 15px;
+}
+
+#myLable {
+    font-size: 3rem;
+}
